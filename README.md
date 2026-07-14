@@ -1,4 +1,4 @@
-Kemenkumham Attendance System
+KEMENKUMHAM ATTENDANCE SYSTEM
 
 A simple, web-based attendance application designed to manage daily attendance records at the Ministry of Law and Human Rights (Kemenkumham) - North Sumatra Regional Office. This system was developed as part of my internship program to help streamline administrative tasks.
 
@@ -13,6 +13,7 @@ This application was created to simplify the process of recording and monitoring
 - Secure Access Management: Robust user authentication features allowing employees to securely manage their personal profiles and update credentials.
 
 🛠️ Technical Specifications
+
 This system is built on a stable and efficient technology stack:
 - Logic Engine: PHP (Server-side scripting for scalable data management).
 - Database: MySQL (Relational database management for persistent data storage).
