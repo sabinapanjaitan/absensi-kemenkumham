@@ -9,6 +9,7 @@ This application was created to simplify the process of recording and monitoring
 
 
 🚀 Key System Features
+
 - Centralized Administrative Hub: An intuitive dashboard for administrators to oversee, verify, and manage employee profiles and attendance data in real-time.
 - Dynamic Attendance Logging: A structured architecture that captures and preserves daily attendance logs with high data integrity and reliability.
 - Operational Intelligence: Integrated data visualization tools that provide clear insights into attendance trends and operational activities, supporting informed decision-making.
