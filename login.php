@@ -52,8 +52,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <body class="login-body">
     <div class="login-box">
         <div class="login-logo">
-            <img src="logo.png" alt="Logo" style="height:40px;">
-            <p>Sistem Absensi<br>Kemenkumham</p>
+            <img src="logo.png" alt="Logo" style="height:50px;">
+            <p style="margin:8px 0 0 0; font-size:16px; font-weight:700; color:#1f2937; line-height:1.3;">Sistem Absensi<br>Kemenkumham</p>
         </div>
 
         <?php if ($error): ?>
@@ -71,11 +71,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <input type="password" name="password" class="form-control" 
                        placeholder="Masukkan Password" required>
             </div>
-            <button type="submit" class="btn btn-primary" 
-                    style="width:100%;justify-content:center;padding:12px;">
+            <button type="submit" class="btn btn-primary">
                 Masuk
             </button>
         </form>
     </div>
-</body class="login-body">
+</body>
 </html>

@@ -17,17 +17,17 @@ body.login-body .login-container {
     backdrop-filter: blur(18px);
     -webkit-backdrop-filter: blur(18px);
     border: 1px solid rgba(255, 255, 255, 0.25);
-    padding: 16px 20px;
+    padding: 28px 32px;
     border-radius: 28px;
     box-shadow: 0 18px 60px rgba(17, 26, 68, 0.16);
-    width: 310px;
-    max-width: 310px;
+    width: 380px;
+    max-width: 380px;
     text-align: center;
     color: #1f2937;
 }
 
 body.login-body .login-logo {
-    margin-bottom: 10px;
+    margin-bottom: 18px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -36,41 +36,33 @@ body.login-body .login-logo {
 
 body.login-body .login-logo img {
     display: block;
-    margin-bottom: 6px;
 }
 
 body.login-body .login-logo p {
     margin: 0;
-    font-size: 14px;
-    font-weight: 700;
-    color: #1f2937;
-    line-height: 1.25;
-    text-align: center;
-    letter-spacing: 0.3px;
 }
 
 body.login-body .form-group {
-    margin: 6px 0;
+    margin: 14px 0;
     text-align: left;
 }
 
 body.login-body .form-group label {
     display: block;
-    margin-bottom: 2px;
+    margin-bottom: 6px;
     color: #4b5563;
-    font-size: 9px;
+    font-size: 12px;
     font-weight: 600;
-    letter-spacing: 0.3px;
 }
 
 body.login-body .form-control {
     width: 100%;
-    padding: 6px 9px;
-    border-radius: 8px;
+    padding: 11px 14px;
+    border-radius: 10px;
     border: 1px solid rgba(255, 255, 255, 0.72);
     background: rgba(255, 255, 255, 0.9);
     color: #1f2937;
-    font-size: 11px;
+    font-size: 13px;
     box-sizing: border-box;
 }
 
@@ -82,16 +74,16 @@ body.login-body .form-control:focus {
 
 body.login-body .btn-primary {
     width: 100%;
-    padding: 8px 10px;
+    padding: 12px 14px;
     background: #6366f1;
     color: #fff;
     border: none;
-    border-radius: 8px;
+    border-radius: 10px;
     font-weight: 700;
     cursor: pointer;
     transition: 0.2s ease;
-    font-size: 11px;
-    margin-top: 1px;
+    font-size: 13px;
+    margin-top: 4px;
 }
 
 body.login-body .btn-primary:hover {
@@ -99,14 +91,14 @@ body.login-body .btn-primary:hover {
 }
 
 body.login-body .alert-error {
-    margin-bottom: 10px;
-    padding: 8px 10px;
+    margin-bottom: 16px;
+    padding: 12px 14px;
     background: #fee2e2;
     border: 1px solid #fecaca;
     color: #991b1b;
-    border-radius: 10px;
+    border-radius: 12px;
     text-align: left;
-    font-size: 11px;
+    font-size: 12px;
 }
 
 body.login-body a {
