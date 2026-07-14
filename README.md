@@ -1,7 +1,9 @@
 Kemenkumham Attendance System
+
 A simple, web-based attendance application designed to manage daily attendance records at the Ministry of Law and Human Rights (Kemenkumham) - North Sumatra Regional Office. This system was developed as part of my internship program to help streamline administrative tasks.
 
 📝 About This Project
+
 This application was created to simplify the process of recording and monitoring employee attendance. During my internship, I identified the need for a basic digital tool that could replace manual logs, so I built this system to ensure attendance data is easier to manage and store.
 
 🚀 Key System Features
